@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Top Events</string>
+
+    <plurals name="seats_available">
+        <item quantity="one">%d seat available</item>
+        <item quantity="other">%d seats available</item>
+    </plurals>
+
+</resources>
